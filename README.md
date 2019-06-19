@@ -60,7 +60,7 @@ Running this agent a few times resulted in scores from -2 to 2. Obviously, if th
 
 ### Algorithm used to train the agent
 
-(images/DQN.png)
+![Algorithm.](images/DQN.png)
 This algorithm screenshot is taken from the [Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
 
 
